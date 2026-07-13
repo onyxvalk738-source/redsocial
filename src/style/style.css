@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    grid-template-rows: repeat(1rem) ;
+}
+
+header {
+    background-color: rgb(53, 137, 206);
+    display: flex;
+    text-align: center;
+}
